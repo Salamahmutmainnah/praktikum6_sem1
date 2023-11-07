@@ -1,0 +1,52 @@
+#header{
+    background-color: rgb(44, 224, 215);
+    text-align: center;
+}
+h1{ 
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(2, 99, 112);
+    
+}
+span{
+    font-weight: bold;
+}
+
+#profil 
+h3{
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+#profil
+li{
+    color: white;
+}
+#profil i{
+    color: black;
+}
+
+#beternak
+h3{
+    background-color: aquamarine;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:black;
+}
+#beternak p{
+    color: rgb(0, 0, 0);
+}
+#beternak li{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(2, 99, 112);
+}
+#beternak h4{
+    background-color: white;
+}
+.koleksi img{
+    display: inline;
+    width: 330px;
+    
+}
+
+
+    
+
